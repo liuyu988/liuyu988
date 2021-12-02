@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @liuyu988
-- 👀 I’m interested in ...
+- 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...1830416019@stu.suda.edu.cn
+- 📫 How to reach me ...1830416019@stu.suda.edu.cn;2316302589@qq.com
 
 <!---
 liuyu988/liuyu988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
